@@ -1,1 +1,1 @@
-export const server="http://localhost:4000"
+export const server="https://r-server-n3bh.onrender.com"
